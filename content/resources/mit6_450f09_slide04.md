@@ -5,6 +5,7 @@ description: "Lecture presentation on entropy, the symptotic equipartition prope
   \ the asymptotic equipartition property (AEP), and Markov sources."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-450-principles-of-digital-communication-i-fall-2009/70f7c04ba9eb060cde2c7ca006ddedfe_MIT6_450F09_slide04.pdf
 file_type: application/pdf
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Entropy and asymptotic equipartition property
 uid: 70f7c04b-a9eb-060c-de2c-7ca006ddedfe

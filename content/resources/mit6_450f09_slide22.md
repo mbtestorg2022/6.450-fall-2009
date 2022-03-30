@@ -6,6 +6,7 @@ description: Lecture presentation on Doppler spread, time spread, baseband syste
   signals, psuedonoise (PN) probing signals, rake receivers, and diversity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-450-principles-of-digital-communication-i-fall-2009/0e011e7f6ed6f84c02dc067cf7f03872_MIT6_450F09_slide22.pdf
 file_type: application/pdf
+parent_uid: 0f805fd1-607d-cb9b-8011-69ce14d600ee
 resourcetype: Document
 title: Doppler spread, time spread, coherence time, and coherence frequency
 uid: 0e011e7f-6ed6-f84c-02dc-067cf7f03872
